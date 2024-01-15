@@ -1,0 +1,22 @@
+1. CSS Selector: Cách mình tìm tới cái thẻ CSS
+
+2. CSS Priority: Độ ưu tiên trong CSS
+    - universal (*): Áp dụng cho tất cả các thẻ trong html (0 điểm)
+    - Internal và External có độ ưu tiên như nhau
+    - Tag name: CSS thông qua tên thẻ (1 điểm)
+    - Class name: CSS thông qua tên class (10 điểm)
+    - ID: CSS thông qua ID (100 điểm)
+    *Càng cụ thể vị trí càng ưu tiên*
+
+3. Flex Box
+    Giúp chung ta căn tất cả phần tử con lên 1 hàng
+    Áp dụng cho thằng cha (Block)
+    Trục chính (trục x) và trục phụ (trục y)
+
+4. Git
+    Repository: Cái kho
+    Upload cái src code lên github (upload lên Repository)
+
+    B1: Tạo Repository trên github
+    B2: Tạo Repository cho project trong máy của mình => git init
+    
